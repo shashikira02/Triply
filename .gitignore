@@ -29,7 +29,6 @@ yarn-error.log*
 .netlify
 
 # configuration files
-.gitattributes
 *.yaml
 
 # local settings
