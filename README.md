@@ -50,6 +50,7 @@ Here are some screenshots of the key pages:
 ## Video Overview
 
 Here's a video walkthrough of the entire project:
+Click here 
 [![Triply.mp4](https://img.youtube.com/vi/3pO0bxh0-1o/0.jpg)](https://youtu.be/3pO0bxh0-1o)
 
 
