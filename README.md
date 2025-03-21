@@ -33,7 +33,7 @@ Here are some screenshots of the key pages:
    ![Adventures Page](./images/Adventures-Page.png)
 
 3. **Adventure Details Page**
-   ![Adventure Details Page](./images/Adventure-Details-Page.png)
+   ![Adventure Details Page](./images/Adventures-Details-Page.png)
 
 4. **Image Carousel on the Adventures Page**
    ![Image Carousel](./images/Carousel-Adventures-Page.png)
