@@ -8,3 +8,4 @@ frontend/__tests__/package.json
 backend/pnpm-lock.yaml
 backend/package-lock.json
 backend/package.json
+*.mp4 filter=lfs diff=lfs merge=lfs -text
