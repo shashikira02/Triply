@@ -75,7 +75,7 @@ Follow the instructions below to have a copy of this project up and running on y
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/Triply.git
+   git clone https://github.com/shashikira02/Triply.git
 
 2. Navigate to the backend directory:
    ```bash
@@ -103,7 +103,7 @@ To run the Triply project, follow these steps to start both the backend and fron
    - Update the `BackendPoint` variable with the URL of your backend server.
   ```javascript
     // index.js in Triply/frontend/conf/index.js
-    const BackendPoint = 'http://your-backend-url.com'; // Update this line
+    const BackendPoint = 'http://your-backend-url.com'; // Update this line with your backend url
   ```
    
 
