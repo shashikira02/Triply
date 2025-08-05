@@ -22,7 +22,7 @@ app.use(express.urlencoded({ extended: true }));
 const PORT = 8082;
 
 /*
-[GET API] used in module 1 to fetch data for all cities
+[GET API] used to fetch data for all cities
 The response is an [array] of cities with each having the following structure :
 {
     "id": "<city-id>",
@@ -38,7 +38,7 @@ app.get("/cities", (req, res) => {
 });
 
 /*
-[GET API] used in module 2 to fetch all adventures for a given city
+[GET API] used to fetch all adventures for a given city
 The response is an [array] of adventures with each having the following structure :
 {
     "id": "2447910730",
@@ -63,7 +63,7 @@ app.get("/adventures", (req, res) => {
 });
 
 /*
-[GET API] used in module 3 to fetch details for a given adventure
+[GET API] used to fetch details for a given adventure
 The response is an [array] of adventures with each having the following structure :
  {
     "id": "2447910730",
@@ -92,7 +92,7 @@ app.get("/adventures/detail", (req, res) => {
 });
 
 /*
-[GET] API used in module 3 to make a new reservation
+[GET] API used to make a new reservation
 Expects serialized form data in the format name=Roy&date=2020-10-08&person=2&adventure=8318638903
 If the reservation is successful, it flips the "available" key to "false" and "reserved" key to "true" for the given adventure
 */
